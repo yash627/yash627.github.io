@@ -1,6 +1,8 @@
 #promo { 
         text-align : center;
         padding:40px;
+        background-image:url(http://wallpaperswide.com/road_at_sunrise-wallpapers.html);
+        background-size:cover;
        }
 
 #promo .jumbotron {
