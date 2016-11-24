@@ -5,6 +5,13 @@
         background-size:cover;
        }
 
+@media (max-width: 991px)
+{
+#promo {
+        padding:20px;
+       }
+}
+
 #promo .jumbotron {
                     border-radius: 20px;
                     padding: 40px;
@@ -12,3 +19,10 @@
                     max-width:800px;
                     margin: @ auto;
                   }
+
+@media (max-width: 991px)
+{
+#promo .jumbotron {
+                   padding:20px;
+                  } 
+}                  
