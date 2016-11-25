@@ -32,3 +32,36 @@
             padding:20px 0;
             text-align:center;
             }
+
+
+@media (max-width: 768px)
+{
+.site-footer
+.social-icons{
+              text-align:right;
+             }
+}
+
+
+.site-footer
+.social-icons
+a:hover     {
+              opacity:1;
+             }
+
+
+.site-footer .social-icons a
+{
+        display:inline-block;
+        width:32px;
+        border:none;
+        font-size:20px;
+        border-radius:50%;
+        margin:4px;
+        color:#fff;
+        text-align:center;
+        background-color:#798FA5;
+        height:32px;
+        opacity:0.8;
+        line-height:32px;
+}
