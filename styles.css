@@ -1,7 +1,9 @@
 #promo { 
         text-align : center;
         padding:40px;
-        background-image: url("https://c4.staticflickr.com/1/371/18693723563_e309b8dc14_b.jpg");
+        -webkit-background-size: cover;
+         -moz-background-size: cover;
+        background-image: url("https://c4.staticflickr.com/1/371/18693723563_e309b8dc14_b.jpg")  no-repeat fixed ;
         background-size:cover;
        }
 
