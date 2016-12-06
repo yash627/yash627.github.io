@@ -15,3 +15,18 @@ html, body {
             margin-top: -140px;
             margin-left: -170px;
           }
+
+
+form {
+       margin: 0 auto;
+       margin-top: 20px;
+     }
+
+
+label {
+        color: #555;
+        display: inline-block;
+        margin-left: 18px;
+        padding-top: 10px;
+        font-size: 14px;
+      }
